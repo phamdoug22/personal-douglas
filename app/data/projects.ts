@@ -21,6 +21,14 @@ export const workProjects: Project[] = [
             { label: "email", url: "mailto:team@kesselgateway.com" },
         ],
     },
+    {
+        title: "Zocular",
+        description: "B2B website, consumer Shopify storefront, and internal tools",
+        links: [
+            { label: "consumer", url: "https://zocular.com" },
+            { label: "professional", url: "https://professionals.zocular.com" },
+        ],
+    },
 ];
 
 export const sideProjects: Project[] = [
