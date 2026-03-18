@@ -23,7 +23,7 @@ export const workProjects: Project[] = [
     },
     {
         title: "Zocular",
-        description: "backend & data infrastructure"
+        description: "backend & data infrastructure",
         links: [
             { label: "consumer", url: "https://zocular.com" },
             { label: "professional", url: "https://professionals.zocular.com" },
