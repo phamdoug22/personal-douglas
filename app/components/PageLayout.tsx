@@ -8,7 +8,7 @@ export const PageLayout = ({ children }: PageLayoutProps) => {
       <div className="absolute top-4 right-4 text-white/20 text-xs">
         hook &apos;em
       </div>
-      <main className="relative z-10 flex flex-col items-center gap-12 px-6 py-16 max-w-2xl">
+      <main className="relative z-10 flex w-full max-w-md flex-col items-start gap-8 px-6 py-16">
         {children}
       </main>
     </div>
